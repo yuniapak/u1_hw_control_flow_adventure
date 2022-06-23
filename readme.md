@@ -30,8 +30,7 @@ Using what you know about data types, variables, operators, conditional blocks, 
 - Run the command `code .` to open it in VS Code.
 - Start by looking at the starter files in the `starter` directory
 - Open the `index.html` in your browser
-  - `open starter/index.html` for mac
-  - `explorer.exe starter` and select the html file for windows
+  - `open index.html`
 - All of your javascript will be run in the browser, `node` will not work
 
 ### How to Get User Input
