@@ -1,0 +1,22 @@
+What's your name brave knight?
+
+- `Name`
+- My pleasure to meet you in my kingdom `Name`, my lovely daughter gone missing and we suspect that the DarkNight kidnapped her. There's 2 roads that go from this castle first one takes you to the forest and other one takes you to the river **(F/R/H)**
+  - `F`orest
+  - You took your road to forest, few hours later you arrived to forest on your horse, birds are singin and everything seems at peace. you entering forest but in a bit you see that there's a path that goes one way and a smaller not even a path or a road that goes deeper in and if you tale you'll have to leave your horse and walk through **(P/W)**
+    - `P`ath
+    - You took a path on your horse that you love so much he been with you since the first day you left your village to become a knight! Few minutes later you arriving to a big mushroom that looks like house, fairies are all around it drinking tea and dancing, but no sign of princess...
+    - `W`alk
+    - Well you decide to walk through, you know your horse will wait for you and he needs a rest anyway, it's been a long journey. Forest getting darker and darker each step you take and it seems like you got lost in the darkness. Well dont worry, you'll just have to wait till the morning to get on your road again.
+  - `R`iver
+  - You decided to take a road to the river. In an hour you arriwing to the river. You can see a bridge near by crossing it or you can galop on your horse along it and see where it will takes you **(B/A)**
+    - `B`ridge
+    - You decided to keep going accross the bridge and soon you see a big dark fort! Definetly a DarkNight lives there! You knock on a gate and one of his servant's tells you that he's taking a nap and please don't disturb him with such a silly question DarkNight has more important stuff to do then kidnapping princesses!
+    - `A`long
+    - You go along the river and soon you see an old fisherman, he offers you some fish soup and you spending a pleasant evening eating fish soup, fried fish and even a fish pie! What a nice grandpa you can't leave right now he tells you his life stories and it will be inpolite to runaway right now.
+  - `H`eart
+  - "I don't need roads!" You decided to follow your heart, I get it! Your heart brings you to the field full of flowers. You cant belive your eyes some of types of the flowers you've never seen before, but remember you still have to find a princess! **(S/G)**
+    - `S`tay
+    - You decided to stay in the field and pick up some flowers and give your horse a rest. You go through the field and you see a princess, she fell asleep in the field! Triumph! You found a princess and bringing her home to her worried father. Great job! Now you are the most famouse knight in the kingdom!
+    - `G`o
+    - You keep riding your horse along the field, sun slowly goes down. It's time to camp and get some sleep, you can try again tomorrow!
